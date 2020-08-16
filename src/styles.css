@@ -1,0 +1,28 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+  margin: 0 auto;
+}
+
+.DayPicker {
+  display: block;
+  margin: 0 auto;
+}
+
+.timepicker-select__value-container {
+  background: white;
+  width: 100px;
+}
+
+.flex {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.justify-between {
+  justify-content: space-evenly;
+}
+
+.timepicker-select__control {
+  width: 100% !important;
+}
